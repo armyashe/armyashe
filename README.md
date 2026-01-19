@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**armyashe/armyashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<a href="#" target="_blank">
+  <img src="assets/armyashe.svg" width="1200" alt="armyashe-official" />
+</a>
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm ArmyAshe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 IT Student | Full-stack Developer with Backend & System Thinking   
+🧠 Working with **FastAPI, Node.js, React, Microservices, Data Engineering, and AI-assisted Development**  
+✍️ Strong in **Business Analysis & Technical Documentation**
+
+---
+
+## 🔧 Tech Stack
+
+- **Backend:** FastAPI, Node.js
+- **Frontend:** React + Vite
+- **Database:** MongoDB, MySQL
+- **Architecture:** Monolith → Microservices → Multi-tenant
+- **Others:** Docker, JWT, REST API, GitHub Actions
+
+---
+
+## 📌 Philosophy
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="armyashe banner" />
+</p>
+
+
+---
+
+
