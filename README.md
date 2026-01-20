@@ -7,14 +7,14 @@
 ## 👋 Hi, I'm ArmyAshe
 
 🎓 IT Student | Full-stack Developer with Backend & System Thinking   
-🧠 Working with **FastAPI, Node.js, React, Microservices, Data Engineering, and AI-assisted Development**  
+🧠 Working with **Node.js, React, Microservices, Data Engineering, and AI-assisted Development**  
 ✍️ Strong in **Business Analysis & Technical Documentation**
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Backend:** FastAPI, Node.js
+- **Backend:** Node.js
 - **Frontend:** React + Vite
 - **Database:** MongoDB, MySQL
 - **Architecture:** Monolith → Microservices → Multi-tenant
