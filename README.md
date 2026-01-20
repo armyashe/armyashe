@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm My Huong
 
-🎓 IT Student | Full-stack Developer with Backend & System Thinking   
+🎓 IT Student | Backend & System Thinking   
 🧠 Working with **Node.js, React, Microservices, Data Engineering, and AI-assisted Development**  
 ✍️ Strong in **Business Analysis & Technical Documentation**
 
