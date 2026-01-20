@@ -4,7 +4,7 @@
   <img src="assets/armyashe.svg" width="1200" alt="armyashe-official" />
 </a>
 
-## 👋 Hi, I'm ArmyAshe
+## 👋 Hi, I'm My Huong
 
 🎓 IT Student | Full-stack Developer with Backend & System Thinking   
 🧠 Working with **Node.js, React, Microservices, Data Engineering, and AI-assisted Development**  
